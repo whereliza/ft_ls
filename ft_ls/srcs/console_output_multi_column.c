@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "console_output_multi_column.h"
+#include "ft_ls.h"
 
 void	get_mc_list_stats(t_list *list, int col, t_mc_list *mc_list)
 {

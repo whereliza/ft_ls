@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "controller.h"
+#include "ft_ls.h"
 
 char	*get_filename(char *path)
 {

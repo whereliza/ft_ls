@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "flag_validator.h"
+#include "ft_ls.h"
 
 int	has_flags_only(char **argv, int argc)
 {

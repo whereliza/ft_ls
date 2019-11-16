@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "flag_input.h"
+#include "ft_ls.h"
 
 void	free_flag_arguments(char ***flag_arguments)
 {

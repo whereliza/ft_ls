@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "sort_utils.h"
+#include "ft_ls.h"
 
 int	compare_name(t_list *node1, t_list *node2, int asc, int is_dir)
 {

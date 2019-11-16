@@ -10,12 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "error.h"
-#include "controller.h"
-#include "flag_input.h"
-#include "file_or_dir_input.h"
-#include "flag_validator.h"
-#include "input_destroy.h"
+#include "ft_ls.h"
 
 int	main(int argc, char **argv)
 {

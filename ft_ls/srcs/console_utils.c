@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "console_utils.h"
+#include "ft_ls.h"
 
 void	fill_file_size_width(t_list *node, t_c_widths *cwidths)
 {

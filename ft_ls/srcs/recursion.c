@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "recursion.h"
+#include "ft_ls.h"
 
 void	recursive_lookthrough(t_f_stat *dir, char *flags)
 {

@@ -10,12 +10,12 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "sort.h"
+#include "ft_ls.h"
 
 void	swap(t_list *node1, t_list *node2)
 {
-	ft_swap(&(node1->content), &(node2->content), sizeof(void*));
-	ft_swap(&(node1->content_size), &(node2->content_size), sizeof(size_t));
+	ft_swap_mem(&(node1->content), &(node2->content), sizeof(void*));
+	ft_swap_mem(&(node1->content_size), &(node2->content_size), sizeof(size_t));
 }
 
 void	sort_w_list(t_list **list, int ascending,

@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "dir_processor.h"
+#include "ft_ls.h"
 
 void	process_dir(char *dirpath, char *flags, t_wlists *wlists)
 {

@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "input_destroy.h"
+#include "ft_ls.h"
 
 void	free_input(char ***file_list, char **flags)
 {

@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "wizard.h"
+#include "ft_ls.h"
 
 t_list	*get_file_stat(char *path, char *flags, int isarg)
 {

@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "console.h"
+#include "ft_ls.h"
 
 void	print_content_with_format(t_list *dnode, int format,
 		t_c_widths *cwidths, char *flags)

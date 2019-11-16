@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "flag_input_utils.h"
+#include "ft_ls.h"
 
 void	check_sort_flags(char **flags, char c)
 {

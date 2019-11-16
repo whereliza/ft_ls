@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "error.h"
+#include "ft_ls.h"
 
 char	get_invalid_flag(char *flags)
 {

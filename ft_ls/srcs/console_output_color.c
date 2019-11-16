@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "console_output_color.h"
+#include "ft_ls.h"
 
 void	set_output_color(char file_type)
 {

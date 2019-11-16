@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "permissions.h"
+#include "ft_ls.h"
 
 char	get_file_type(mode_t st_mode)
 {

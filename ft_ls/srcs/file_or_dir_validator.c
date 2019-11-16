@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "file_or_dir_validator.h"
+#include "ft_ls.h"
 
 int	is_dir(char *path)
 {

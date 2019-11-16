@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "file_obj.h"
+#include "ft_ls.h"
 
 void	free_file_obj(t_f_stat **file_stat)
 {

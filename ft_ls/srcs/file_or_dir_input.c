@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "file_or_dir_input.h"
+#include "ft_ls.h"
 
 void	fill_filelist(char ***file_list, char **flags, char **argv, int argc)
 {
